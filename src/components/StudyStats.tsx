@@ -1,5 +1,3 @@
-import React from 'react';
-import { useTranslation } from 'react-i18next';
 import { Subject } from './CyclePlanner';
 
 type Session = {
@@ -15,7 +13,6 @@ interface StudyStatsProps {
 }
 
 export default function StudyStats({ sessions, subjects }: StudyStatsProps) {
-  const { t } = useTranslation();
 
   // 1. Group total seconds by Subject ID.
   // We'll also collect sessions with no subjectId under an 'Outros' (Other) category.
