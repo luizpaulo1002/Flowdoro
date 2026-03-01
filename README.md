@@ -2,7 +2,7 @@
 
 O **Flowdoro** é um aplicativo desktop para Windows, construído sob medida para estudantes e concurseiros que buscam máxima produtividade. Unindo a poderosa técnica **Flowtime** ao renomado **Ciclo de Estudos flexível**, a ferramenta permite que você estude no seu próprio ritmo, sem a rigidez de cronogramas fixos, mantendo a proporção ideal entre horas dedicadas e pausas restauradoras.
 
-![Preview](![alt text](capa.PNG))
+![alt text](capa.PNG)
 
 ## Principais Funcionalidades
 
